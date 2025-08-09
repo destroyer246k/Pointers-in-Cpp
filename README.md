@@ -58,7 +58,6 @@ This program accesses array elements through a pointer array to print elements i
 5. Loop backward to print elements in reverse.  
 6. Stop.  
 
-
 ## 4. String Operations Using Pointers
 **Logic:**  
 The program reads a string, copies it using pointers, reverses it, and checks if it is a palindrome. Pointer arithmetic is used to traverse and manipulate characters. It also demonstrates how pointers can handle string operations without relying solely on built-in string functions.
